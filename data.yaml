@@ -1,0 +1,7 @@
+train: H:\2023challengecup\localtrainbyyolo\yolov5git\computerview\train\images
+val: H:\2023challengecup\localtrainbyyolo\yolov5git\computerview\val\images
+nc: 3
+names:
+  0: handshake
+  1: dance
+  2: running
